@@ -38,3 +38,4 @@ int main() {
     findDuplicates(str);
     return 0;
 }
+//commit changes
